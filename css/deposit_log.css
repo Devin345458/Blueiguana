@@ -1,0 +1,92 @@
+.ExcelTable2003 {
+	border: 3px solid #404040;
+	border-width: 3px 3px 3px 3px;
+	font-size: 10pt;
+	font-family: arial;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+.ExcelTable2003 TH {
+	background-color: #D4D0C8;
+	border: 1px solid #808080;
+	border-width: 0px 1px 1px 0px;
+	font-weight: normal;
+}
+
+.ExcelTable2003 TD {
+	border: 0px;
+	background-color: white;
+	padding: 0px 4px 0px 2px;
+	border: 1px solid #C0C0C0;
+	border-width: 0px 1px 1px 0px;
+}
+
+.ExcelTable2003 TD.heading {
+	background-color: #D4D0C8;
+	border: 1px solid #808080;
+	border-width: 0px 1px 1px 0px;
+	text-align: center;
+	padding: 0px 0px 0px 0px;
+}
+
+
+        .xcl_header_top {
+          font-weight: bold;
+          font-size: 15px;
+          border-top: 3px solid black !important;
+        }
+        .xcl_header_bottom {
+          font-weight: bold;
+          font-size: 15px;
+          border-bottom: 3px solid black !important;
+        }
+        .xcl_header {
+          font-weight: bold;
+          font-size: 15px;
+          border-top: 3px solid black !important;
+          border-bottom: 3px solid black !important;
+        }
+        .bold {
+          font-weight: bold;
+        }
+        .border_top_heavy {
+          border-top: 2px solid black !important;
+        }
+        #deposit_log_table input {
+          border-width: 0px;
+          border: none;
+        }
+        #deposit_log_table .blue_bg {
+          background-color: #7BA4DA !important;
+        }
+        #deposit_log_table .blue_bg input {
+          background-color: #7BA4DA !important;
+          text-align: right;
+        }
+        #deposit_log_table .light_blue_bg {
+          background-color: #C3FFFF !important;
+        }
+        #deposit_log_table .light_blue_bg textarea {
+          background-color: #C3FFFF !important;
+        }
+        #deposit_log_table .yellow_bg {
+          background-color: #F8F40C !important;
+        }
+        #deposit_log_table .yellow_bg input {
+          background-color: #F8F40C !important;
+          text-align: right;
+        }
+        #deposit_log_table .white_bg {
+          background-color: #FFFFFF !important;
+        }
+        #deposit_log_table .red_bg {
+          background-color: #E40013 !important;
+        }
+        #deposit_log_table .green_bg {
+          background-color: #22AE11 !important;
+        }
+        #deposit_log_table .green_bg input {
+          background-color: #22AE11 !important;
+          text-align: right;
+        }
